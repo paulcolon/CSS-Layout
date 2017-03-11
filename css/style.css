@@ -7,6 +7,8 @@ body {
 	color: #3a3a3a;
 }
 
+
+
 a { 
 	color: #fff;
 	text-decoration: none;
@@ -15,6 +17,10 @@ a {
 /* ================================= 
   Base Layout Styles
 ==================================== */
+
+.name {
+	margin:0;
+}
 
 /* ---- Layout Containers ---- */
 
@@ -25,6 +31,7 @@ a {
 
 .main-header {
 	background: #3acec2;
+	padding: 1em 0;
 }
 
 .main-footer {
